@@ -1,9 +1,11 @@
-import './App.css';
-
+import "./App.css";
 
 function App() {
   return (
-   <div>Pierwsza aplikacja</div>
+    <>
+      <div>Pierwsza aplikacja</div>
+      <div>Druga aplikacja</div>
+    </>
   );
 }
 
